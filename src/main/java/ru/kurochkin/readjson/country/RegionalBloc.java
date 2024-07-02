@@ -1,4 +1,4 @@
-package ru.kurochkin.readjson.regionalbloc;
+package ru.kurochkin.readjson.country;
 
 import java.util.ArrayList;
 

@@ -2,11 +2,6 @@ package ru.kurochkin.readjson.country;
 
 import java.util.ArrayList;
 
-import ru.kurochkin.readjson.currency.Currency;
-import ru.kurochkin.readjson.language.*;
-import ru.kurochkin.readjson.regionalbloc.*;
-import ru.kurochkin.readjson.translations.*;
-
 @SuppressWarnings("unused")
 public class Country {
     private String name;

@@ -1,4 +1,4 @@
-package ru.kurochkin.readjson.translations;
+package ru.kurochkin.readjson.country;
 
 @SuppressWarnings("unused")
 public class Translations {
